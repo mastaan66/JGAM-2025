@@ -1,7 +1,3 @@
-Here is a comprehensive `README.md` file for your project, focusing on the pure HTML, CSS, and JavaScript version. It's designed to be clear, professional, and easy to follow for anyone looking to understand and run your code.
-
------
-
 # JNTUH Global Alumni Meet 2025
 
 This project is a fast, modern, and responsive website for the JNTUH Global Alumni Meet 2025. It is built using only **pure HTML, CSS, and JavaScript**, without any external frameworks like Bootstrap or React. The design is a direct recreation of the provided event flyers, featuring a deep teal/blue background with gold accents.
