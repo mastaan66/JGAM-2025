@@ -37,7 +37,7 @@ Getting the website up and running is very straightforward.
 First, clone the project to your local machine.
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/mastaan66/JGAM-2025
 ```
 
 ### 2\. Open the File
@@ -46,7 +46,7 @@ Simply open the `index.html` file in your web browser. You do not need a local s
 
 ### 3\. Replace Placeholders
 
-Remember to replace the placeholder images (`https://via.placeholder.com/...`) with your actual image files.
+Remember to replace the placeholder images with your actual image files.
 
 ## Important Notes on the Visitor Counter
 
